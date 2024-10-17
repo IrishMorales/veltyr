@@ -49,6 +49,12 @@ composer run dev
 http://localhost:8000
 ```
 
+Log in to your Laravel app with the credentials:
+```
+Email: test@example.com
+Password: password
+```
+
 
 ### Deployment
 ```
