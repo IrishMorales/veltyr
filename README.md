@@ -10,7 +10,7 @@ Open source Laravel 11 boilerplate for admin dashboards optimized for scalablili
 Run the following in your terminal:
 ```bash
 // Start PostgreSQL server as user 'postgres'
-psql -U postgres`
+psql -U postgres
 
 // Run commands below inside postgresql server
 ALTER USER postgres WITH password 'postgres';
